@@ -34,10 +34,12 @@ public class MenueSteuerung {
         int uebersetzteBenutzereingabe;
 
         System.out.println("Stammdatenverwaltung 1.0 Copyright \u00a9 Marwin Shraideh, MNR 123456");
-        System.out.println("Eine weitere Zeile weiterer Code!");
+        
+        System.out.println("Dies ist der zweite Test");
+        
         System.out.println("Hauptmen\u00fc:");
         System.out.println("Bitte w\u00e4hlen Sie:");
-        System.out.println("");
+        System.out.println("-----");
 
         while (laufeweiter) {
             System.out.println("Kunden      verwalten   1");
